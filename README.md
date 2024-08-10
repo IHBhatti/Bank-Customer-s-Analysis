@@ -1,4 +1,4 @@
-# Bank-Customer-s-Analysis
+# Bank-Customer's-Analysis
 # Project Overview
 The goal of this project is to transform raw banking data into actionable insights. This was achieved through a series of steps, including data cleaning, transformation, and visualization. The final output is a comprehensive analysis report that provides a clear understanding of the bank's customer demographics, account balances, and other key metrics.
 # Process used
